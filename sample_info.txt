@@ -1,0 +1,52 @@
+NAME	rename	Color	CLASS
+Sample_1.raw (F3)	18a	blue	Non-cytb
+Sample_1a.raw (F32)	18b	blue	Non-cytb
+Sample_2.raw (F4)	2a	red	Cytb
+Sample_2a.raw (F33)	2b	red	Cytb
+Sample_3.raw (F5)	12a	blue	Non-cytb
+Sample_3a.raw (F34)	12b	blue	Non-cytb
+Sample_4.raw (F6)	14a	blue	Non-cytb
+Sample_4a.raw (F35)	14b	blue	Non-cytb
+Sample_5.raw (F7)	9a	blue	Non-cytb
+Sample_5a.raw (F36)	9b	blue	Non-cytb
+Sample_6.raw (F8)	3a	red	Cytb
+Sample_6a.raw (F37)	3b	red	Cytb
+Sample_7.raw (F9)	6a	red	Cytb
+Sample_7a.raw (F38)	6b	red	Cytb
+Sample_8.raw (F10)	8a	brown	Other OxPhos
+Sample_8a.raw (F39)	8b	brown	Other OxPhos
+Sample_10.raw (F13)	13a	blue	Non-cytb
+Sample_10a.raw (F42)	13b	blue	Non-cytb
+Sample_11.raw (F14)	16a	blue	Non-cytb
+Sample_11a.raw (F43)	16b	blue	Non-cytb
+Sample_12.raw (F15)	5a	red	Cytb
+Sample_12a.raw (F44)	5b	red	Cytb
+Sample_13.raw (F16)	7a	brown	Other OxPhos
+Sample_13a.raw (F45)	7b	brown	Other OxPhos
+Sample_14.raw (F17)	19a	blue	Non-cytb
+Sample_14a.raw (F46)	19b	blue	Non-cytb
+Sample_15.raw (F18)	4a	red	Cytb
+Sample_15a.raw (F47)	4b	red	Cytb
+Sample_16.raw (F19)	15a	blue	Non-cytb
+Sample_16a.raw (F48)	15b	blue	Non-cytb
+Sample_17.raw (F21)	1a	red	Cytb
+Sample_17a.raw (F50)	1b	red	Cytb
+Sample_18.raw (F22)	17a	blue	Non-cytb
+Sample_18a.raw (F51)	17b	blue	Non-cytb
+Sample_19.raw (F23)	10a	blue	Non-cytb
+Sample_19a.raw (F52)	10b	blue	Non-cytb
+Sample_20.raw (F24)	11a	blue	Non-cytb
+Sample_20a.raw (F53)	11b	blue	Non-cytb
+QC10.raw (F2)	QC	black	QC
+QC11.raw (F11)	QC	black	QC
+QC12.raw (F20)	QC	black	QC
+QC13.raw (F28)	QC	black	QC
+QC14.raw (F29)	QC	black	QC
+QC9.raw (F1)	QC	black	QC
+QCB4.raw (F30)	QC	black	QC
+QCB5.raw (F31)	QC	black	QC
+QCB6.raw (F40)	QC	black	QC
+QCB7.raw (F49)	QC	black	QC
+QCB8.raw (F56)	QC	black	QC
+QCB9.raw (F57)	QC	black	QC
+Solvent_Blank.raw (F27)	SB	white	SB
