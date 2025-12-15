@@ -62,8 +62,8 @@ We provide a Docker-based Jupyter Lab environment with all dependencies pre-inst
 #### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd metabolomic_kennet
+git clone git@github.com:mtinti/metabolomic_kenneth.git
+cd metabolomic_kenneth
 ```
 
 #### 2. Run the Docker container
@@ -71,7 +71,7 @@ cd metabolomic_kennet
 **Example command** (adjust ports and volume paths according to your system):
 
 ```bash
-docker run -p 8890:8888 -v /path/to/metabolomic_kennet:/app --rm mtinti/biojupyter_debian
+docker run -p 8890:8888 -v /path/to/metabolomic_kenneth:/app --rm mtinti/biojupyter_debian
 ```
 
 **Parameters**:
